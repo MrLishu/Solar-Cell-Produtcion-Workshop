@@ -4,7 +4,9 @@
 
 The CAD diagram of Case4, showing a partial layout of the Case4 workshop.
 
-![CAD_Case_4](https://github.com/user-attachments/assets/0d058fdb-dd55-4578-b33a-d94b772d7f90)
+|![CAD_Case_4](https://github.com/user-attachments/assets/0d058fdb-dd55-4578-b33a-d94b772d7f90)|
+|:--:|
+|Case4|
 
 The simulation video of Case4 from a top-down perspective.
 
