@@ -22,5 +22,5 @@ https://github.com/user-attachments/assets/1cd582ce-7e48-4a98-af8f-1e899232e0b0
 
 The simulation video of Case6 from a 3D perspective. The video playback may experience some lag due to the high computational cost of graphics rendering in 3D simulation.
 
-https://github.com/user-attachments/assets/8332c369-b2fb-442c-b7ea-1adfa5bdd736
+https://github.com/user-attachments/assets/919fd358-615b-4720-94be-29516ba05623
 
