@@ -1,6 +1,6 @@
 # Solar-Cell-Produtcion-Workshop
 
-## Case4
+### Case4
 
 The CAD diagram of Case4, showing a partial layout of the Case4 workshop.
 
@@ -10,7 +10,7 @@ The simulation video of Case4 from a top-down perspective.
 
 https://github.com/user-attachments/assets/3298565d-fd90-44a4-855c-3cd7fb453eed
 
-## Case 6
+### Case 6
 
 The CAD diagram of Case6, showing the layout of the Case6 workshop.
 
