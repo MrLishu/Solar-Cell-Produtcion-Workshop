@@ -1,16 +1,21 @@
 # Solar-Cell-Produtcion-Workshop
 
 Case 4
-<iframe src="https://drive.google.com/file/d/1hCCFUPCJU7x_yJlLYnql4vIAguX7BvK-/preview" width="100%" height="400"></iframe>
+
+
+
+https://github.com/user-attachments/assets/3298565d-fd90-44a4-855c-3cd7fb453eed
+
 
 Case 6
-<video src="https://github.com/user-attachments/assets/6501ef88-7c5e-43f8-ac74-3d04be7e817c" width="300"/>
+
+
+
+https://github.com/user-attachments/assets/1cd582ce-7e48-4a98-af8f-1e899232e0b0
+
 
 Case 6 3D
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/b5268282-9000-4371-8782-6523acaab4e4" type="video/mp4">
-</video>
 
 
-https://github.com/user-attachments/assets/f71a2ba7-6484-44cc-b2ac-7cccafc881c9
+https://github.com/user-attachments/assets/8332c369-b2fb-442c-b7ea-1adfa5bdd736
 
