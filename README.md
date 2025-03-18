@@ -1,9 +1,7 @@
 # Solar-Cell-Produtcion-Workshop
 
 Case 4
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/1d912d6a-b455-45cb-8542-16ae6641eba7" type="video/mp4">
-</video>
+<iframe src="https://drive.google.com/file/d/1hCCFUPCJU7x_yJlLYnql4vIAguX7BvK-/preview" width="100%" height="400"></iframe>
 
 Case 6
 <video width="100%" controls>
