@@ -2,9 +2,9 @@
 
 ### Case4
 
-CAD_Case_4: The CAD diagram of Case4, showing a partial layout of the Case4 workshop.
+CAD_Case_4: The CAD diagram of Case4, showing the layout of the Case4 workshop.
 
-|![CAD_Case_4](https://github.com/user-attachments/assets/0d058fdb-dd55-4578-b33a-d94b772d7f90)|
+|<img width="1406" alt="CAD_Case_4" src="https://github.com/user-attachments/assets/102f4de5-dcdc-4fe1-a953-4f0407329148" />|
 |:--:|
 |CAD_Case_4|
 
